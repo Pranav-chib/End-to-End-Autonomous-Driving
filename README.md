@@ -15,13 +15,7 @@ Modular architecture is a widely used approach in autonomous driving systems, wh
 
 This repo contains a curated list of resources on End-to-End Autonomous Driving, arranged chronologically. We regularly update it with the latest papers and their corresponding open-source implementations.
 
-## Table of Contents
 
-- [LEARNING APPROACHES](#LEARNING-APPROACHES)
-- [EXPLAINABILITY](#EXPLAINABILITY)
-- [EVALUATION](#EVALUATION)
-- [SAFETY](#SAFETY)
-- [SIMULATOR](#SIMULATOR)
 
 <hr />
 
