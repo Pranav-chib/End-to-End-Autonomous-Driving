@@ -5,7 +5,7 @@ Authors: [Pranav Singh Chib](https://github.com/Pranav-chib), [Pravendra Singh](
 </p>
 
 <p align="center">
-<img src="/Learning_3Methods.gif" width="500" height="500"/>
+<img src="/Learning3_Methods.gif" width="500" height="500"/>
 <p>
 
 <hr />
