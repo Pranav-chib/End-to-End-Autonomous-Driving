@@ -23,7 +23,13 @@ Modular architecture is a widely used approach in autonomous driving systems, wh
 
 This repo contains a curated list of resources on End-to-End Autonomous Driving, arranged chronologically. We regularly update it with the latest papers and their corresponding open-source implementations.
 
+## Table of Contents
 
+- [LEARNING APPROACHES](#LEARNING-APPROACHES)
+- [EXPLAINABILITY](#EXPLAINABILITY)
+- [EVALUATION](#EVALUATION)
+- [SAFETY](#SAFETY)
+- [CITATION](#Citation)
 
 <hr />
 
@@ -200,6 +206,197 @@ The following are the different learning approaches of End-to-End Driving
 [ECCV2022] <br> Shengchao Hu, Li Chen, Penghao Wu, Hongyang Li, Junchi Yan, Dacheng Tao<br>
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OpenDriveLab/ST-P3)
 
+<hr />
+ 
+# EXPLAINABILITY
+- [Post-hoc saliency methods]()
+
+- [Counterfactual explanation]()
+
+
+## Post-hoc saliency methods
+
+## Attention
+
+[**Planning-oriented Autonomous Driving**](https://arxiv.org/abs/2212.10156) :trophy:Best Paper
+[CVPR2023]  <br> Yihan Hu, Jiazhi Yang, Li Chen, Keyu Li, Chonghao Sima, Xizhou Zhu, Siqi Chai, Senyao Du, Tianwei Lin, Wenhai Wang, Lewei Lu, Xiaosong Jia, Qiang Liu, Jifeng Dai, Yu Qiao, Hongyang Li <br>
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OpenDriveLab/UniAD)
+
+[**Policy Pre-training for Autonomous Driving via Self-supervised Geometric Modeling**](https://openreview.net/forum?id=X5SUR7g2vVw)
+[ICLR2023] <br> Penghao Wu, Li Chen, Hongyang Li, Xiaosong Jia, Junchi Yan, Yu Qiao <br>
+
+[**Scaling Self-Supervised End-to-End Driving with Multi-View Attention Learning**](https://arxiv.org/abs/2302.03198)
+[arxiv2023] <br> Yi Xiao, Felipe Codevilla, Diego Porres, Antonio M. Lopez<br>
+
+ [**TransFuser: Imitation with Transformer-Based Sensor Fusion for Autonomous Driving**](https://arxiv.org/abs/2205.15997)
+ [TPAMI2022] <br> Kashyap Chitta, Aditya Prakash, Bernhard Jaeger, Zehao Yu, Katrin Renz, Andreas Geiger<br>
+ [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/autonomousvision/transfuser.git)
+
+[**PlanT: Explainable Planning Transformers via Object-Level Representations**](https://arxiv.org/abs/2210.14222)
+[CoRL2022] <br> Katrin Renz, Kashyap Chitta, Otniel-Bogdan Mercea, A. Sophia Koepke, Zeynep Akata, Andreas Geiger<br>
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/autonomousvision/plant)
+
+[**Multi-Modal Fusion Transformer for End-to-End Autonomous Driving**](https://arxiv.org/abs/2104.09224)
+[CVPR2021] <br> Aditya Prakash, Kashyap Chitta, Andreas Geiger<br>
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/autonomousvision/transfuser.git)
+
+[**NEAT: Neural Attention Fields for End-to-End Autonomous Driving**](https://arxiv.org/abs/2109.04456)
+[ICCV2021] <br> Kashyap Chitta, Aditya Prakash, Andreas Geiger <br>
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/autonomousvision/neat.git)
+ 
+## Semantic representation and Auxiliary output
+
+[**Learning from All Vehicles**](http://arxiv.org/pdf/1709.04622v4)
+[CVPR2022] <br> Dian Chen, Philipp Krähenbühl <br>
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dotchen/LAV.git)
+
+ [**TransFuser: Imitation with Transformer-Based Sensor Fusion for Autonomous Driving**](https://arxiv.org/abs/2205.15997)
+ [TPAMI2022] <br> Kashyap Chitta, Aditya Prakash, Bernhard Jaeger, Zehao Yu, Katrin Renz, Andreas Geiger<br>
+ [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/autonomousvision/transfuser.git)
+
+[**ST-P3: End-to-end Vision-based Autonomous Driving via Spatial-Temporal Feature Learning**](https://arxiv.org/abs/2207.07601)
+[ECCV2022] <br> Shengchao Hu, Li Chen, Penghao Wu, Hongyang Li, Junchi Yan, Dacheng Tao<br>
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OpenDriveLab/ST-P3)
+
+
+
+
+## Counterfactual explanation
+
+
+## Attention 
+
+[**Planning-oriented Autonomous Driving**](https://arxiv.org/abs/2212.10156) :trophy:Best Paper
+[CVPR2023]  <br> Yihan Hu, Jiazhi Yang, Li Chen, Keyu Li, Chonghao Sima, Xizhou Zhu, Siqi Chai, Senyao Du, Tianwei Lin, Wenhai Wang, Lewei Lu, Xiaosong Jia, Qiang Liu, Jifeng Dai, Yu Qiao, Hongyang Li <br>
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OpenDriveLab/UniAD)
+
+
+[**Safety-Enhanced Autonomous Driving Using Interpretable Sensor Fusion Transformer**](https://arxiv.org/abs/2207.14024)
+[CoRL2022] <br> Hao Shao, Letian Wang, RuoBing Chen, Hongsheng Li, Yu Liu<br>
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/opendilab/InterFuser)
+
+[**PlanT: Explainable Planning Transformers via Object-Level Representations**](https://arxiv.org/abs/2210.14222)
+[CoRL2022] <br> Katrin Renz, Kashyap Chitta, Otniel-Bogdan Mercea, A. Sophia Koepke, Zeynep Akata, Andreas Geiger<br>
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/autonomousvision/plant)
+
+[**NEAT: Neural Attention Fields for End-to-End Autonomous Driving**](https://arxiv.org/abs/2109.04456)
+[ICCV2021] <br> Kashyap Chitta, Aditya Prakash, Andreas Geiger <br>
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/autonomousvision/neat.git)
+
+## Semantic representation and Auxiliary output
+
+ 
+[**Hidden Biases of End-to-End Driving Models**](https://arxiv.org/abs/2306.07957) 
+[arXiv2023] <br> Bernhard Jaeger, Kashyap Chitta, Andreas Geiger<br>
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/autonomousvision/carla_garage)
+ 
+ [**TransFuser: Imitation with Transformer-Based Sensor Fusion for Autonomous Driving**](https://arxiv.org/abs/2205.15997)
+ [TPAMI2022] <br> Kashyap Chitta, Aditya Prakash, Bernhard Jaeger, Zehao Yu, Katrin Renz, Andreas Geiger<br>
+ [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/autonomousvision/transfuser.git)
+
+ [**Safety-Enhanced Autonomous Driving Using Interpretable Sensor Fusion Transformer**](https://arxiv.org/abs/2207.14024)
+[CoRL2022] <br> Hao Shao, Letian Wang, RuoBing Chen, Hongsheng Li, Yu Liu<br>
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/opendilab/InterFuser)
+
+[**Learning Situational Driving**](http://arxiv.org/pdf/1811.07868v2) 
+[CVPR2020] <br> Eshed Ohn-Bar, Aditya Prakash, Aseem Behl, Kashyap Chitta, Andreas Geiger <br>
+
+
+
+
+<hr />
+
+# EVALUATION
+
+
+## Open Loop
+
+- [**nuScenes**](https://www.nuscenes.org/nuscenes) 
+
+- [**KITTI**](https://www.cvlibs.net/datasets/kitti/)
+
+- [**Argoverse 1 & 2**](https://www.argoverse.org/av2.html)
+
+
+## Close Loop
+
+- [**CARLA Autonomous Driving Leaderboard**](https://leaderboard.carla.org/)
+
+
+<hr />
+
+# SAFETY
+
+- [Training on Critical Scenarios](#Training-on-Critical-Scenarios)
+- [Safety Constraints Integration](#Safety-Constraints-Integration)
+- [Additional Safety Modules](#Additional-Safety-Modules)
+
+##  Training on Critical Scenarios 
+unprotected turnings at intersections, pedestrians emerging from occluded regions, aggressive lane-changing, and other safety heuristics.
+
+[**KING: Generating Safety-Critical Driving Scenarios for Robust Imitation via Kinematics Gradients**](https://arxiv.org/abs/2204.13683)
+[ECCV2022] <br> Niklas Hanselmann, Katrin Renz, Kashyap Chitta, Apratim Bhattacharyya, Andreas Geiger <br>
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/autonomousvision/transfuser.git)
+
+[**Learning from All Vehicles**](http://arxiv.org/pdf/1709.04622v4)
+[CVPR2022] <br> Dian Chen, Philipp Krähenbühl <br>
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dotchen/LAV.git)
+
+[**Multi-Modal Fusion Transformer for End-to-End Autonomous Driving**](https://arxiv.org/abs/2104.09224)
+[CVPR2021] <br> Aditya Prakash, Kashyap Chitta, Andreas Geiger<br>
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/autonomousvision/transfuser.git)
+
+
+## Safety Constraints Integration 
+safety cost function, avoiding unsafe maneuvers and collision avoidance strategies.
+
+
+[**Think Twice before Driving: Towards Scalable Decoders for End-to-End Autonomous Driving.**](https://arxiv.org/abs/2305.0624) [CVPR2023] <br> Xiaosong Jia, Penghao Wu, Li Chen, Jiangwei Xie, Conghui He, Junchi Yan, Hongyang Li <br>
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OpenDriveLab/ThinkTwice)
+
+
+[**Policy Pre-training for Autonomous Driving via Self-supervised Geometric Modeling**](https://openreview.net/forum?id=X5SUR7g2vVw)
+[ICLR2023] <br> Penghao Wu, Li Chen, Hongyang Li, Xiaosong Jia, Junchi Yan, Yu Qiao <br>
+
+ [**TransFuser: Imitation with Transformer-Based Sensor Fusion for Autonomous Driving**](https://arxiv.org/abs/2205.15997)
+ [TPAMI2022] <br> Kashyap Chitta, Aditya Prakash, Bernhard Jaeger, Zehao Yu, Katrin Renz, Andreas Geiger<br>
+ [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/autonomousvision/transfuser.git)
+
+
+[**Efficient Learning of Safe Driving Policy via Human-AI Copilot Optimization**](https://arxiv.org/abs/2202.10341#:~:text=HACO%20can%20train%20agents%20to,baselines%20with%20a%20large%20margin.)
+[ICLR2022] <br> Quanyi Li, Zhenghao Peng, Bolei Zhou <br>
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/decisionforce/HACO)
+
+[**Safety-Enhanced Autonomous Driving Using Interpretable Sensor Fusion Transformer**](https://arxiv.org/abs/2207.14024)
+[CoRL2022] <br> Hao Shao, Letian Wang, RuoBing Chen, Hongsheng Li, Yu Liu<br>
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/opendilab/InterFuser)
+
+[**ST-P3: End-to-end Vision-based Autonomous Driving via Spatial-Temporal Feature Learning**](https://arxiv.org/abs/2207.07601)
+[ECCV2022] <br> Shengchao Hu, Li Chen, Penghao Wu, Hongyang Li, Junchi Yan, Dacheng Tao<br>
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OpenDriveLab/ST-P3)
+
+[**Learning To Drive From a World on Rails**](http://arxiv.org/pdf/2105.00636v3)
+[ICCV2021]<br> Dian Chen, Vladlen Koltun, Philipp Krähenbühl <br>
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dotchen/WorldOnRails.git)
+
+[**SAM: Squeeze-and-Mimic Networks for Conditional Visual Driving Policy Learning**](https://arxiv.org/abs/1912.02973)
+[[CoRL2020]] <br> Albert Zhao, Tong He, Yitao Liang, Haibin Huang, Guy Van den Broeck, Stefano Soatto <br>
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/twsq/sam-driving.git)
+
+## Additional Safety Modules 
+Preventing deviations from safe operation.
+
+[**Planning-oriented Autonomous Driving**](https://arxiv.org/abs/2212.10156) :trophy:Best Paper
+[CVPR2023]  <br> Yihan Hu, Jiazhi Yang, Li Chen, Keyu Li, Chonghao Sima, Xizhou Zhu, Siqi Chai, Senyao Du, Tianwei Lin, Wenhai Wang, Lewei Lu, Xiaosong Jia, Qiang Liu, Jifeng Dai, Yu Qiao, Hongyang Li <br>
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OpenDriveLab/UniAD)
+
+[**PlanT: Explainable Planning Transformers via Object-Level Representations**](https://arxiv.org/abs/2210.14222)
+[CoRL2022] <br> Katrin Renz, Kashyap Chitta, Otniel-Bogdan Mercea, A. Sophia Koepke, Zeynep Akata, Andreas Geiger<br>
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/autonomousvision/plant)
+
+[**Trajectory-guided Control Prediction for End-to-end Autonomous Driving: A Simple yet Strong Baseline**](https://arxiv.org/abs/2206.08129) 
+[NeurIPS2022] <br>Penghao Wu, Xiaosong Jia, Li Chen, Junchi Yan, Hongyang Li, Yu Qiao<br>
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OpenDriveLab/TCP)
 
 
 
@@ -210,6 +407,7 @@ The following are the different learning approaches of End-to-End Driving
 If you find the listing and survey useful for your work, please cite the paper:
 
 ```
+
 @misc{chib2023recent,
     title={Recent Advancements in End-to-End Autonomous Driving using Deep Learning: A Survey},
     author={Pranav Singh Chib and Pravendra Singh},
@@ -220,3 +418,4 @@ If you find the listing and survey useful for your work, please cite the paper:
 }
 
 ```
+
