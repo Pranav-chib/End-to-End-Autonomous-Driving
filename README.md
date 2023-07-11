@@ -1,5 +1,5 @@
 
-# <p align=center> This repository supplements our survey on [End-to-End Autonomous Driving](https://github.com/Pranav-chib/Recent-Advancements-in-End-to-End-Autonomous-Driving-using-Deep-Learning), which has been submitted to IEEE Transactions on Intelligent Transportation Systems.
+# <p align=center> This repository supplements our survey on <br> [End-to-End Autonomous Driving](http://arxiv.org/abs/2307.04370).
 
 Authors: [Pranav Singh Chib](https://github.com/Pranav-chib), [Pravendra Singh](https://scholar.google.com/citations?user=YwDTxJMAAAAJ&hl=en)
 </p>
