@@ -206,6 +206,7 @@ The following are the different learning approaches of End-to-End Driving
 [ECCV2022] <br> Shengchao Hu, Li Chen, Penghao Wu, Hongyang Li, Junchi Yan, Dacheng Tao<br>
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OpenDriveLab/ST-P3)
 
+[🔼 Back to top](#Table-of-Contents)
 <hr />
  
 # EXPLAINABILITY
@@ -303,7 +304,7 @@ The following are the different learning approaches of End-to-End Driving
 
 
 
-
+[🔼 Back to top](#Table-of-Contents)
 <hr />
 
 # EVALUATION
@@ -418,4 +419,4 @@ If you find the listing and survey useful for your work, please cite the paper:
 }
 
 ```
-
+[🔼 Back to top](#Table-of-Contents)
