@@ -409,7 +409,7 @@ If you find the listing and survey useful for your work, please cite the paper:
 
 ```
 
-@misc{chib2023recent,
+@article{chib2023recent,
     title={Recent Advancements in End-to-End Autonomous Driving using Deep Learning: A Survey},
     author={Pranav Singh Chib and Pravendra Singh},
     year={2023},
