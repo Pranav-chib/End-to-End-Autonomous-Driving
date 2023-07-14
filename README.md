@@ -322,6 +322,8 @@ The following are the different learning approaches of End-to-End Driving
 ## Close Loop
 
 - [**CARLA Autonomous Driving Leaderboard**](https://leaderboard.carla.org/)
+  
+- [**nuPlan**](https://www.nuscenes.org/nuplan?externalData=all&mapData=all&modalities=Any)
 
 
 <hr />
