@@ -55,7 +55,7 @@ The following are the different learning approaches of End-to-End Driving
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OpenDriveLab/PPGeo)
 
 [**Hidden Biases of End-to-End Driving Models**](https://arxiv.org/abs/2306.07957) 
-[arXiv2023] <br> Bernhard Jaeger, Kashyap Chitta, Andreas Geiger<br>
+[ICCV2023] <br> Bernhard Jaeger, Kashyap Chitta, Andreas Geiger<br>
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/autonomousvision/carla_garage)
 
 [**Scaling Self-Supervised End-to-End Driving with Multi-View Attention Learning**](https://arxiv.org/abs/2302.03198)
