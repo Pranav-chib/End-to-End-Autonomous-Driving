@@ -58,8 +58,8 @@ The following are the different learning approaches of End-to-End Driving
 [ICCV2023] <br> Bernhard Jaeger, Kashyap Chitta, Andreas Geiger<br>
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/autonomousvision/carla_garage)
 
-[**Scaling Self-Supervised End-to-End Driving with Multi-View Attention Learning**](https://arxiv.org/abs/2302.03198)
-[arxiv2023] <br> Yi Xiao, Felipe Codevilla, Diego Porres, Antonio M. Lopez<br>
+[**Scaling Vision-based End-to-End Autonomous Driving with Multi-View Attention Learning**](https://arxiv.org/abs/2302.03198)
+[IROS 2023] <br> Yi Xiao, Felipe Codevilla, Diego Porres, Antonio M. Lopez<br>
 
 [**Learning from All Vehicles**](http://arxiv.org/pdf/1709.04622v4)
 [CVPR2022] <br> Dian Chen, Philipp Krähenbühl <br>
@@ -226,8 +226,8 @@ The following are the different learning approaches of End-to-End Driving
 [**Policy Pre-training for Autonomous Driving via Self-supervised Geometric Modeling**](https://openreview.net/forum?id=X5SUR7g2vVw)
 [ICLR2023] <br> Penghao Wu, Li Chen, Hongyang Li, Xiaosong Jia, Junchi Yan, Yu Qiao <br>
 
-[**Scaling Self-Supervised End-to-End Driving with Multi-View Attention Learning**](https://arxiv.org/abs/2302.03198)
-[arxiv2023] <br> Yi Xiao, Felipe Codevilla, Diego Porres, Antonio M. Lopez<br>
+[**Scaling Vision-based End-to-End Autonomous Driving with Multi-View Attention Learning**](https://arxiv.org/abs/2302.03198)
+[IROS 2023] <br> Yi Xiao, Felipe Codevilla, Diego Porres, Antonio M. Lopez<br>
 
  [**TransFuser: Imitation with Transformer-Based Sensor Fusion for Autonomous Driving**](https://arxiv.org/abs/2205.15997)
  [TPAMI2022] <br> Kashyap Chitta, Aditya Prakash, Bernhard Jaeger, Zehao Yu, Katrin Renz, Andreas Geiger<br>
