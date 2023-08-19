@@ -321,12 +321,30 @@ The following are the different learning approaches of End-to-End Driving
 
 ## Close Loop
 
-- [**CARLA Autonomous Driving Leaderboard**](https://leaderboard.carla.org/)
+- [**CARLA**](https://leaderboard.carla.org/)
   
 - [**nuPlan**](https://www.nuscenes.org/nuplan?externalData=all&mapData=all&modalities=Any)
 
-
 <hr />
+
+##  <p align=center>[**CARLA LEADERBOARD 1.0 UNTIL AUGUST 2023**](https://leaderboard.carla.org/)
+
+| Rank  |                     Submission                    |   DS  |   RC  |   IP  |       CP       |  CV  |   CL  |  RLI  |  SSI |   OI  |  RD  |    AB    |  Type (E/M) |
+|:-----:|:-------------------------------------------------:|:-----:|:-----:|:-----:|:--------------:|:----:|:-----:|:-----:|:----:|:-----:|:----:|:--------:|:-----------:|
+|       |                                                   |   \%  |   \%  | [0,1] | infractions/km |      |       |       |      |       |      |          | End/Modular |
+|   1   |        [**ReasonNet: End-to-End Driving with Temporal and Global Reasoning**](https://arxiv.org/abs/2305.10507)       | 79.95 | 89.89 |  0.89 |      0.02      | 0.13 |  0.01 |  0.08 | 0.00 |  0.04 | 0.00 |   0.33   |      E      |
+|   2   |         [**Safety-Enhanced Autonomous Driving Using Interpretable Sensor Fusion Transformer**](https://arxiv.org/abs/2207.14024)       | 76.18 | 88.23 |  0.84 |      0.04      | 0.37 |  0.14 |  0.22 | 0.00 |  0.13 | 0.00 |   0.43   |      E      |
+|   3   |          [**Trajectory-guided Control Prediction for End-to-end Autonomous Driving: A Simple yet Strong Baseline**](https://arxiv.org/abs/2206.08129)        | 75.14 | 85.63 |  0.87 |      0.00      | 0.32 |  0.00 |  0.09 | 0.00 |  0.04 | 0.00 |   0.54   |      E      |
+|   4   |                       [**Hidden Biases of End-to-End Driving Models**](https://arxiv.org/abs/2306.07957)                         | 66.32 | 78.57 |  0.84 |      0.00      | 0.50 |  0.00 |  0.01 | 0.00 |  0.12 | 0.00 |   0.71   |      E      |
+|   5   |         [**Learning from All Vehicles**](http://arxiv.org/pdf/1709.04622v4)       | 61.85 | 94.46 |  0.64 |      0.04      | 0.70 |  0.02 |  0.17 | 0.00 |  0.25 | 0.09 |   0.10   |      E      |
+|   6   |      [**TransFuser: Imitation with Transformer-Based Sensor Fusion for Autonomous Driving**](https://arxiv.org/abs/2205.15997)   | 61.18 | 86.69 |  0.71 |      0.04      | 0.81 |  0.01 |  0.05 | 0.00 |  0.23 | 0.00 |   0.43   |      E      |
+|   7   | [**Latent TransFuser**](https://arxiv.org/abs/2205.15997)| 45.20 | 66.31 |  0.72 |      0.02      | 1.11 |  0.02 |  0.05 | 0.00 |  0.16 | 0.00 |   1.82   |      E      |
+|   8   |          [**GRIAD**](https://arxiv.org/abs/2111.08575)         | 36.79 | 61.85 |  0.60 |      0.00      | 2.77 |  0.41 |  0.48 | 0.00 |  1.39 | 1.11 |   0.84   |      E      |
+|   9   |    [**TransFuser+**](https://arxiv.org/abs/2205.15997)    | 34.58 | 69.84 |  0.56 |      0.04      | 0.70 |  0.03 |  0.75 | 0.00 |  0.18 | 0.00 |   2.41   |      E      |
+|   10   |   [**Learning To Drive From a World on Rails**](http://arxiv.org/pdf/2105.00636v3)  | 31.37 | 57.65 |  0.56 |      0.61      | 1.35 |  1.02 |  0.79 | 0.00 |  0.96 | 1.69 |   0.47   |      E      |
+|  11   |         [**End-to-End Model-Free Reinforcement Learning for Urban Driving Using Implicit Affordances**](https://openaccess.thecvf.com/content_CVPR_2020/html/Toromanoff_End-to-End_Model-Free_Reinforcement_Learning_for_Urban_Driving_Using_Implicit_Affordances_CVPR_2020_paper.html)        | 24.98 | 46.97 |  0.52 |      0.00      | 2.33 |  2.47 |  0.55 | 0.00 |  1.82 | 1.44 |   0.94   |      E      |
+|   12  |          [**NEAT: Neural Attention Fields for End-to-End Autonomous Driving**](https://arxiv.org/abs/2109.04456)          | 21.83 | 41.71 |  0.65 |      0.04      | 0.74 |  0.62 |  0.70 | 0.00 |  2.68 | 0.00 |   5.22   |      E      |
+
 
 # SAFETY
 
