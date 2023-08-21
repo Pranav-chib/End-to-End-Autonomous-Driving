@@ -1,6 +1,6 @@
 
 # <p align=center>`End-to-End Autonomous Driving`<br>
-End-to-End autonomous driving is a promising paradigm as it
+end-to-end autonomous driving is a promising paradigm as it
 circumvents the drawbacks associated with modular systems,
 such as their overwhelming complexity and propensity for error
 propagation. Autonomous driving transcends conventional traffic
