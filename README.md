@@ -29,6 +29,7 @@ This repo contains a curated list of resources on End-to-End Autonomous Driving,
 - [EXPLAINABILITY](#EXPLAINABILITY)
 - [EVALUATION](#EVALUATION)
 - [SAFETY](#SAFETY)
+- [LARGE LANGUAGE MODELS IN AUTONOMOUS DRIVING](Large Language Models in autonomous driving)
 - [CITATION](#Citation)
 
 <hr />
@@ -419,6 +420,21 @@ Preventing deviations from safe operation.
 [NeurIPS2022] <br>Penghao Wu, Xiaosong Jia, Li Chen, Junchi Yan, Hongyang Li, Yu Qiao<br>
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OpenDriveLab/TCP)
 
+# Large Language Models in autonomous driving
+<center>
+ 
+## Dataset
+  
+| Dataset  |   Reasoning    |   Outlook | Size     | 
+|:---------:|:-------------:|:------:|:--------------------------------------------:|
+| [BDD-X 2018](https://github.com/JinkyuKimUCB/explainable-deep-driving)  | Description | Planning Description & Justification    | 8M frames, 20k text strings   
+| [HAD HRI Advice 2019](https://usa.honda-ri.com/had)   | Advice | Goal-oriented & stimulus-driven advice | 5,675 video clips, 45k text strings  
+| [Talk2Car 2019](https://github.com/talk2car/Talk2Car)  | Description |  Goal Point Description | 30k frames, 10k text strings 
+| [DRAMA 2022](https://usa.honda-ri.com/drama)  | Description |  QA + Captions | 18k frames, 100k text strings 
+| [nuScenes-QA 2023](https://arxiv.org/abs/2305.14836)   |  QA |  Perception Result     | 30k frames, 460k QA pairs
+| [DriveLM-2023](https://github.com/OpenDriveLab/DriveLM) |  QA + Scene Descriptio | Perception, Prediction and Planning with Logic | 30k frames, 600k QA pairs 
+
+</center>
 
 
 <hr />
