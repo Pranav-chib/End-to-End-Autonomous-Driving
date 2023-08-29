@@ -29,7 +29,7 @@ This repo contains a curated list of resources on End-to-End Autonomous Driving,
 - [EXPLAINABILITY](#EXPLAINABILITY)
 - [EVALUATION](#EVALUATION)
 - [SAFETY](#SAFETY)
-- [LARGE LANGUAGE MODELS IN AUTONOMOUS DRIVING](Large Language Models in autonomous driving)
+- [LARGE LANGUAGE MODELS IN AUTONOMOUS DRIVING](#Large-Language-Models-in-autonomous-driving)
 - [CITATION](#Citation)
 
 <hr />
