@@ -445,14 +445,15 @@ If you find the listing and survey useful for your work, please cite the paper:
 
 ```
 
-@article{chib2023recent,
-    title={Recent Advancements in End-to-End Autonomous Driving using Deep Learning: A Survey},
-    author={Pranav Singh Chib and Pravendra Singh},
-    year={2023},
-    eprint={2307.04370},
-    archivePrefix={arXiv},
-    primaryClass={cs.RO}
-}
+@ARTICLE{10258330,
+  author={Chib, Pranav Singh and Singh, Pravendra},
+  journal={IEEE Transactions on Intelligent Vehicles}, 
+  title={Recent Advancements in End-to-End Autonomous Driving using Deep Learning: A Survey}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-18},
+  doi={10.1109/TIV.2023.3318070}}
 
 ```
 [🔼 Back to top](#Table-of-Contents)
