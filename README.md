@@ -17,7 +17,7 @@ traffic settings.
 
 <hr />
 
-# <p align=center>[Recent Advancements in End-to-End Autonomous Driving using Deep Learning: A Survey](http://arxiv.org/abs/2307.04370)
+# <p align=center>[Recent Advancements in End-to-End Autonomous Driving using Deep Learning: A Survey(accepted in IEEE TIV)](http://arxiv.org/abs/2307.04370)
 Authors: [Pranav Singh Chib](https://github.com/Pranav-chib), [Pravendra Singh](https://scholar.google.com/citations?user=YwDTxJMAAAAJ&hl=en)</p>
 Modular architecture is a widely used approach in autonomous driving systems, which divides the driving pipeline into discrete sub-tasks. This architecture relies on individual sensors and algorithms to process data and generate control outputs. In contrast, the End-to-End autonomous driving approach streamlines the system, improving efficiency and robustness by directly mapping sensory input to control outputs. The benefits of End-to-End autonomous driving have garnered significant attention in the research community. 
 
