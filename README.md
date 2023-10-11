@@ -8,7 +8,6 @@ patterns by proactively recognizing critical events in advance,
 ensuring passengers’ safety and providing them with comfortable
 transportation, particularly in highly stochastic and variable
 traffic settings.
-
 </p>
 
 <p align="center">
@@ -17,7 +16,16 @@ traffic settings.
 
 <hr />
 
-# <p align=center>[Recent Advancements in End-to-End Autonomous Driving using Deep Learning: A Survey(accepted in IEEE TIV)](http://arxiv.org/abs/2307.04370)
+# <p align=center>Recent Advancements in End-to-End Autonomous Driving using Deep Learning: A Survey <a href="https://medium.com/@pranavs_chib/end-to-end-autonomous-driving-using-deep-learning-8a94ecb3bb6b">
+  <img align="left" alt="JJ's Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+</a>
+<a href="https://ieeexplore.ieee.org/document/10258330">
+  <img align="left" alt="JJ's Medium" src="https://camo.githubusercontent.com/9505a1887908dd93299cbeedd06bb8bf706b2e5fc69e682bee1375b235ba4009/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4945454526636f6c6f723d303036323942266c6f676f3d49454545266c6f676f436f6c6f723d464646464646266c6162656c3d" />
+</a>
+<a href="http://arxiv.org/abs/2307.04370">
+  <img align="left" alt="JJ's Medium" src="https://img.shields.io/badge/arXiv-2307.04370-b31b1b.svg" />
+</a>
+
 Authors: [Pranav Singh Chib](https://github.com/Pranav-chib), [Pravendra Singh](https://scholar.google.com/citations?user=YwDTxJMAAAAJ&hl=en)</p>
 Modular architecture is a widely used approach in autonomous driving systems, which divides the driving pipeline into discrete sub-tasks. This architecture relies on individual sensors and algorithms to process data and generate control outputs. In contrast, the End-to-End autonomous driving approach streamlines the system, improving efficiency and robustness by directly mapping sensory input to control outputs. The benefits of End-to-End autonomous driving have garnered significant attention in the research community. 
 
