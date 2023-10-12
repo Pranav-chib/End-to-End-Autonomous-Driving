@@ -17,7 +17,7 @@ traffic settings.
 <hr />
 
 # <p align=center>Recent Advancements in End-to-End Autonomous Driving using Deep Learning: A Survey <a href="https://medium.com/@pranavs_chib/end-to-end-autonomous-driving-using-deep-learning-8a94ecb3bb6b">
-  <img align="left" alt="JJ's Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  <a href="https://medium.com/@pranavs_chib/end-to-end-autonomous-driving-using-deep-learning-8a94ecb3bb6b"> <img align="left" alt="JJ's Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
 </a>
 <a href="https://ieeexplore.ieee.org/document/10258330">
   <img align="left" alt="JJ's Medium" src="https://camo.githubusercontent.com/9505a1887908dd93299cbeedd06bb8bf706b2e5fc69e682bee1375b235ba4009/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4945454526636f6c6f723d303036323942266c6f676f3d49454545266c6f676f436f6c6f723d464646464646266c6162656c3d" />
