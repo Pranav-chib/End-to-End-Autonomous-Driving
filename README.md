@@ -439,7 +439,7 @@ Preventing deviations from safe operation.
 | [Talk2Car 2019](https://github.com/talk2car/Talk2Car)  | Description |  Goal Point Description | 30k frames, 10k text strings 
 | [DRAMA 2022](https://usa.honda-ri.com/drama)  | Description |  QA + Captions | 18k frames, 100k text strings 
 | [nuScenes-QA 2023](https://arxiv.org/abs/2305.14836)   |  QA |  Perception Result     | 30k frames, 460k QA pairs
-| [DriveLM-2023](https://github.com/OpenDriveLab/DriveLM) |  QA + Scene Descriptio | Perception, Prediction and Planning with Logic | 30k frames, 600k QA pairs 
+| [DriveLM-2023](https://github.com/OpenDriveLab/DriveLM) |  QA + Scene Description | Perception, Prediction and Planning with Logic | 30k frames, 600k QA pairs 
 
 </center>
 
