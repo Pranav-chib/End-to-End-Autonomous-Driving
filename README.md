@@ -458,12 +458,14 @@ If you find the listing and survey useful for your work, please cite the paper:
 @ARTICLE{10258330,
   author={Chib, Pranav Singh and Singh, Pravendra},
   journal={IEEE Transactions on Intelligent Vehicles}, 
-  title={Recent Advancements in End-to-End Autonomous Driving using Deep Learning: A Survey}, 
-  year={2023},
-  volume={},
-  number={},
-  pages={1-18},
+  title={Recent Advancements in End-to-End Autonomous Driving Using Deep Learning: A Survey}, 
+  year={2024},
+  volume={9},
+  number={1},
+  pages={103-118},
+  keywords={Autonomous vehicles;Pipelines;Navigation;Task analysis;Surveys;Laser radar;Computer architecture;Autonomous driving;end-to-end driving;intelligent transportation system;deep learning},
   doi={10.1109/TIV.2023.3318070}}
+
 
 ```
 [🔼 Back to top](#Table-of-Contents)
