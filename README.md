@@ -429,6 +429,9 @@ Preventing deviations from safe operation.
 
 # Large Language Models in autonomous driving
 <center>
+The following repository contain a curated list of resources on 3D LLM-based autonomous driving research papers with their corresponding open-source implementations.
+  
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pranav-chib/3D-LLM-Autonomous-Driving)
  
 ## Dataset
   
